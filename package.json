@@ -1,0 +1,12 @@
+{
+  "name": "test-babel",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "auth0-js": "^8.11.2",
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.3.2"
+  }
+}
